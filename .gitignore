@@ -1,0 +1,9 @@
+# Ignore root files 
+
+*.root
+*.txt
+*.dat
+*.bmp
+*.png
+
+
